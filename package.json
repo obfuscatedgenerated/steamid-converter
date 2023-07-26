@@ -3,6 +3,7 @@
   "version": "1.0.4",
   "description": "Steamid 64 to steamid",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,7 +22,4 @@
     "url": "https://github.com/kingdragox99/steamid-coverter/issues"
   },
   "homepage": "https://github.com/kingdragox99/steamid-coverter#readme",
-  "dependencies": {
-    "big-integer": "^1.6.51"
-  }
 }
